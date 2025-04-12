@@ -1,34 +1,10 @@
-Hi there, I'm Anurag Kumar Pandey 👋
+Hi, I’m Anurag Kumar Pandey! I’m a tech enthusiast from Nepal, currently living in Germany. I have always been curious about technology and enjoy learning how things work — especially in the world of software and IT systems.
 
-🚀 Tech Enthusiast | Lifelong Learner | Aspiring IT Professional
+I’m interested in web development and I’m learning to work with languages like HTML, CSS, and JavaScript. I’ve also started exploring tools like Git, React, and Node.js to build small projects and improve my problem-solving skills.
 
-I'm a passionate tech enthusiast originally from Nepal and residing rightnoe in Germanyand  eager to explore the ever-evolving world of technology. I have a growing interest in software development, IT systems, and emerging technologies from my school. In my spare time, you’ll find me doing photography, writing stories, or brewing a fresh cup of coffee to fuel my ideas! 
+Besides coding, I like spending my free time doing photography, writing stories, and enjoying a good cup of coffee. My goal is to keep learning and growing in the tech world while working on creative and exciting projects.
 
-My goal is to continuously learn and develop my skills while contributing to exciting projects in the tech industry.
-
-🔧 Skills & Technologies
-
-I have experience in various technologies and skills, including:
-
-Programming: HTML,CSS, JavaScript
-
-Tools & Frameworks: Git, React, Node.js
-
-Problem-Solving & Debugging
-
-Continuous Learning & Tech Exploration
-
-🌱 Currently Exploring
-
-I am currently diving deeper into:
-
-Webprogrammierung and DevOps
-
-AI & Machine Learning
-
-Open-source contributions
-
-Web development best practices
+Right now, I’m exploring more about web programming, DevOps, and the basics of AI and Machine Learning. I also want to get involved in open-source projects to learn from real-world examples.
 
 📫 Connect with Me
 
